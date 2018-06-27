@@ -1,0 +1,115 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Android\\Projects\\Scan2DServer_4G\\app\\build\\intermediates\\res\\merged\\debug\\values-v11_values-v11.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Android\\Projects\\Scan2DServer_4G\\app\\src\\main\\res\\values-v11\\styles.xml",
+                    "from": {
+                        "startLines": "6",
+                        "startColumns": "4",
+                        "startOffsets": "182",
+                        "endLines": "8",
+                        "endColumns": "12",
+                        "endOffsets": "316"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "4",
+                        "endColumns": "12",
+                        "endOffsets": "187"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\Android\\Projects\\Scan2DServer_4G\\app\\build\\intermediates\\res\\merged\\debug\\values-zh-rCN_values-zh-rCN.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Android\\Projects\\Scan2DServer_4G\\app\\src\\main\\res\\values-zh-rCN\\strings.xml",
+                    "from": {
+                        "startLines": "2,22,16,9,10,11,12,17,21,18,8,4,7,3,15,5,14,19,6",
+                        "startColumns": "4,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1",
+                        "startOffsets": "19,718,526,313,347,381,416,564,686,600,268,108,218,67,488,145,454,639,182",
+                        "endColumns": "49,38,36,32,32,33,33,34,30,37,43,35,48,39,36,35,32,42,34",
+                        "endOffsets": "64,755,561,344,378,413,448,597,715,636,310,142,265,105,523,179,485,680,215"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,105,147,187,223,259,296,333,371,405,446,493,532,584,627,667,706,742,788",
+                        "endColumns": "49,41,39,35,35,36,36,37,33,40,46,38,51,42,39,38,35,45,37",
+                        "endOffsets": "100,142,182,218,254,291,328,366,400,441,488,527,579,622,662,701,737,783,821"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\Android\\Projects\\Scan2DServer_4G\\app\\build\\intermediates\\res\\merged\\debug\\values_values.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Android\\Projects\\Scan2DServer_4G\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "2,22,16,9,10,11,12,17,21,18,8,4,7,3,15,5,14,19,6",
+                        "startColumns": "4,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1",
+                        "startOffsets": "19,856,646,358,410,462,516,684,824,720,300,117,238,67,608,158,574,759,199",
+                        "endColumns": "49,38,36,50,50,52,53,34,30,37,56,39,60,48,36,39,32,60,37",
+                        "endOffsets": "64,893,681,407,459,513,568,717,853,756,355,155,297,114,643,196,605,818,235"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,105,147,187,241,295,351,408,446,480,521,581,624,688,740,780,823,859,923",
+                        "endColumns": "49,41,39,53,53,55,56,37,33,40,59,42,63,51,39,42,35,63,40",
+                        "endOffsets": "100,142,182,236,290,346,403,441,475,516,576,619,683,735,775,818,854,918,959"
+                    }
+                },
+                {
+                    "source": "C:\\Android\\Projects\\Scan2DServer_4G\\app\\src\\main\\res\\values\\styles.xml",
+                    "from": {
+                        "startLines": "6,15,20",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "250,581,782",
+                        "endLines": "12,17,22",
+                        "endColumns": "12,12,12",
+                        "endOffsets": "540,738,873"
+                    },
+                    "to": {
+                        "startLines": "21,28,31",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "964,1255,1415",
+                        "endLines": "27,30,33",
+                        "endColumns": "12,12,12",
+                        "endOffsets": "1250,1410,1503"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\Android\\Projects\\Scan2DServer_4G\\app\\build\\intermediates\\res\\merged\\debug\\values-v14_values-v14.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Android\\Projects\\Scan2DServer_4G\\app\\src\\main\\res\\values-v14\\styles.xml",
+                    "from": {
+                        "startLines": "7",
+                        "startColumns": "4",
+                        "startOffsets": "225",
+                        "endLines": "9",
+                        "endColumns": "12",
+                        "endOffsets": "373"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "4",
+                        "endColumns": "12",
+                        "endOffsets": "201"
+                    }
+                }
+            ]
+        }
+    ]
+}

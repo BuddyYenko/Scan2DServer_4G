@@ -1,0 +1,45 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Android\\Projects\\Scan2DServer_4G\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+            "map": [
+                {
+                    "source": "C:\\Android\\Projects\\Scan2DServer_4G\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "2,22,16,9,10,11,12,17,21,18,8,4,7,3,15,5,14,19,6",
+                        "startColumns": "4,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1",
+                        "startOffsets": "19,856,646,358,410,462,516,684,824,720,300,117,238,67,608,158,574,759,199",
+                        "endColumns": "49,38,36,50,50,52,53,34,30,37,56,39,60,48,36,39,32,60,37",
+                        "endOffsets": "64,893,681,407,459,513,568,717,853,756,355,155,297,114,643,196,605,818,235"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,105,147,187,241,295,351,408,446,480,521,581,624,688,740,780,823,859,923",
+                        "endColumns": "49,41,39,53,53,55,56,37,33,40,59,42,63,51,39,42,35,63,40",
+                        "endOffsets": "100,142,182,236,290,346,403,441,475,516,576,619,683,735,775,818,854,918,959"
+                    }
+                },
+                {
+                    "source": "C:\\Android\\Projects\\Scan2DServer_4G\\app\\src\\main\\res\\values\\styles.xml",
+                    "from": {
+                        "startLines": "6,15,20",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "250,581,782",
+                        "endLines": "12,17,22",
+                        "endColumns": "12,12,12",
+                        "endOffsets": "540,738,873"
+                    },
+                    "to": {
+                        "startLines": "21,28,31",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "964,1255,1415",
+                        "endLines": "27,30,33",
+                        "endColumns": "12,12,12",
+                        "endOffsets": "1250,1410,1503"
+                    }
+                }
+            ]
+        }
+    ]
+}

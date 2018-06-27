@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="5dp"
+    android:scrollbars="vertical" >
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        >
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:minHeight="80dp"
+        android:orientation="horizontal"
+        >
+
+        <Switch
+            android:id="@+id/switch_scan"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="20dp"
+            android:layout_marginRight="20dp"
+            android:checked="false"
+            style="@style/NormalFont"
+            android:layout_gravity="center"
+            android:text="@string/scan_switch" />
+
+    </LinearLayout>
+	<View 
+	    android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:layout_marginTop="5dp"
+        android:background="@android:color/darker_gray"
+	    />
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="5dp"
+        android:orientation="horizontal"
+         >
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            style="@style/NormalFont"
+            android:text="@string/prefix" />
+
+        <Spinner
+            android:id="@+id/spinner_prefix"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:minWidth="100dp"
+            />
+        <TextView
+            android:id="@+id/text_prefix"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            style="@style/NormalFont"
+            android:layout_weight="1"
+            android:text="" />
+        
+    </LinearLayout>
+    <View 
+	    android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="@android:color/darker_gray"
+	    />
+    
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="5dp"
+        android:orientation="horizontal"
+         >
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            style="@style/NormalFont"
+            android:text="@string/surfix" />
+
+        <Spinner
+            android:id="@+id/spinner_surfix"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:minWidth="100dp"
+            />
+        <TextView
+            android:id="@+id/text_surfix"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            style="@style/NormalFont"
+            android:layout_weight="1"
+            android:text="" />
+        
+    </LinearLayout>
+    <View 
+	    android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="@android:color/darker_gray"
+	    />
+    
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="5dp"
+        android:orientation="horizontal"
+         >
+		<TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            style="@style/NormalFont"
+            android:layout_weight="1"
+            android:text="@string/voice" />
+        <CheckBox
+            android:id="@+id/checkBox_voice"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="" />
+        
+    </LinearLayout>
+    <View 
+	    android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="@android:color/darker_gray"
+	    />
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="5dp"
+        android:orientation="horizontal"
+         >
+		<TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            style="@style/NormalFont"
+            android:layout_weight="1"
+            android:text="@string/power_saving" />
+        <CheckBox
+            android:id="@+id/checkBox_power_saving"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="" />
+        
+    </LinearLayout>
+    <View 
+	    android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="@android:color/darker_gray"
+	    />
+    <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            style="@style/NormalFont"
+            android:layout_weight="1"
+            android:text="@string/scan_key_setting" />
+    
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="5dp"
+        android:orientation="horizontal"
+        android:background="@drawable/corners_background"
+        android:padding="3dp"
+         >
+		<TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            style="@style/NormalFont"
+            android:layout_weight="1"
+            android:text="@string/f1" />
+        <CheckBox
+            android:id="@+id/checkBox_f1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="" />
+        
+    </LinearLayout>
+    
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="5dp"
+        android:orientation="horizontal"
+        android:background="@drawable/corners_background"
+        android:padding="3dp"
+         >
+		<TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            style="@style/NormalFont"
+            android:layout_weight="1"
+            android:text="@string/f2" />
+        <CheckBox
+            android:id="@+id/checkBox_f2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="" />
+        
+    </LinearLayout>
+    
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="5dp"
+        android:orientation="horizontal"
+        android:background="@drawable/corners_background"
+        android:padding="3dp"
+         >
+		<TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            style="@style/NormalFont"
+            android:layout_weight="1"
+            android:text="@string/f3" />
+        <CheckBox
+            android:id="@+id/checkBox_f3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="" />
+        
+    </LinearLayout>
+    
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="5dp"
+        android:orientation="horizontal"
+        android:background="@drawable/corners_background"
+        android:padding="3dp"
+         >
+		<TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            style="@style/NormalFont"
+            android:layout_weight="1"
+            android:text="@string/f4" />
+        <CheckBox
+            android:id="@+id/checkBox_f4"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="" />
+        
+    </LinearLayout>
+    
+    
+</LinearLayout>
+</ScrollView>

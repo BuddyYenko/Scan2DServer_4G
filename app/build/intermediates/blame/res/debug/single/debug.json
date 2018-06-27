@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "C:\\Android\\Projects\\Scan2DServer_4G\\app\\build\\intermediates\\res\\merged\\debug\\drawable_corners_background.xml.flat",
+        "source": "C:\\Android\\Projects\\Scan2DServer_4G\\app\\src\\main\\res\\drawable\\corners_background.xml"
+    },
+    {
+        "merged": "C:\\Android\\Projects\\Scan2DServer_4G\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Android\\Projects\\Scan2DServer_4G\\app\\src\\main\\res\\drawable-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Android\\Projects\\Scan2DServer_4G\\app\\build\\intermediates\\res\\merged\\debug\\layout_dialog_loading.xml.flat",
+        "source": "C:\\Android\\Projects\\Scan2DServer_4G\\app\\src\\main\\res\\layout\\dialog_loading.xml"
+    },
+    {
+        "merged": "C:\\Android\\Projects\\Scan2DServer_4G\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Android\\Projects\\Scan2DServer_4G\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Android\\Projects\\Scan2DServer_4G\\app\\build\\intermediates\\res\\merged\\debug\\raw_msg.mp3.flat",
+        "source": "C:\\Android\\Projects\\Scan2DServer_4G\\app\\src\\main\\res\\raw\\msg.mp3"
+    },
+    {
+        "merged": "C:\\Android\\Projects\\Scan2DServer_4G\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Android\\Projects\\Scan2DServer_4G\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Android\\Projects\\Scan2DServer_4G\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_scan_logo.png.flat",
+        "source": "C:\\Android\\Projects\\Scan2DServer_4G\\app\\src\\main\\res\\drawable-hdpi\\scan_logo.png"
+    },
+    {
+        "merged": "C:\\Android\\Projects\\Scan2DServer_4G\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Android\\Projects\\Scan2DServer_4G\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Android\\Projects\\Scan2DServer_4G\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_layout.xml.flat",
+        "source": "C:\\Android\\Projects\\Scan2DServer_4G\\app\\src\\main\\res\\layout\\activity_layout.xml"
+    },
+    {
+        "merged": "C:\\Android\\Projects\\Scan2DServer_4G\\app\\build\\intermediates\\res\\merged\\debug\\layout_dialog_others.xml.flat",
+        "source": "C:\\Android\\Projects\\Scan2DServer_4G\\app\\src\\main\\res\\layout\\dialog_others.xml"
+    }
+]

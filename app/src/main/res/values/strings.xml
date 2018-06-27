@@ -1,0 +1,25 @@
+<resources>
+
+    <string name="app_name">Scan2DServer</string>
+	<string name="scan_switch">Scan switch</string>
+	<string name="prefix">Prefix:</string>
+	<string name="surfix">Surfix:</string>
+	<string name="voice">Voice:</string>
+	<string name="scan_key_setting">Scan key settings:</string>
+	<string name="power_saving">Power saving mode:</string>
+	<string name="f1">F1 key(keycode = 131):</string>
+	<string name="f2">F2 key(keycode = 132):</string>
+	<string name="f3">Left key(keycode = 133):</string>
+	<string name="f4">Right key(keycode = 135):</string>
+	
+	<string name="tab">TAB</string>
+	<string name="space">SPACE</string>
+	<string name="enter">ENTER</string>
+	<string name="none">NONE</string>
+	<string name="other">OTHERS</string>
+	<string name="user_char">Input the customized Char</string>
+	
+	<string name="ok">OK</string>
+	<string name="cancel">CANCEL</string>
+	
+</resources>

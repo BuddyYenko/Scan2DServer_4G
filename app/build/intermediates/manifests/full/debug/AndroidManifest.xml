@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.myscandemo"
+    android:versionCode="4"
+    android:versionName="4.1" >
+
+    <uses-sdk
+        android:minSdkVersion="17"
+        android:targetSdkVersion="19" />
+
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.CAMERA" />
+    <uses-permission android:name="android.permission.ACCESS_MTK_MMHW" />
+
+    <application
+        android:allowBackup="true"
+        android:debuggable="true"
+        android:icon="@drawable/scan_logo"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+
+        <!-- receive funkey -->
+        <receiver android:name="com.rfid.scan.KeyReceiver" >
+            <intent-filter>
+
+                <!-- 兼容H941 -->
+                <action android:name="android.intent.action.FUN_KEY" />
+                <action android:name="android.rfid.FUN_KEY" />
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </receiver>
+        <!-- config settings action android:name="com.rfid.scan.config" <data android:scheme="com.rfid.scan" android:host="ConfigActivity"/> -->
+        <activity
+            android:name="com.rfid.scan.ConfigActivity"
+            android:launchMode="singleTask" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <service android:name="com.rfid.scan.service.ScanService" >
+            <intent-filter>
+                <action android:name="com.scan.service" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </service>
+    </application>
+
+</manifest>

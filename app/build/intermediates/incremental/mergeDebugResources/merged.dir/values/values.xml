@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Scan2DServer</string>
+    <string name="cancel">CANCEL</string>
+    <string name="enter">ENTER</string>
+    <string name="f1">F1 key(keycode = 131):</string>
+    <string name="f2">F2 key(keycode = 132):</string>
+    <string name="f3">Left key(keycode = 133):</string>
+    <string name="f4">Right key(keycode = 135):</string>
+    <string name="none">NONE</string>
+    <string name="ok">OK</string>
+    <string name="other">OTHERS</string>
+    <string name="power_saving">Power saving mode:</string>
+    <string name="prefix">Prefix:</string>
+    <string name="scan_key_setting">Scan key settings:</string>
+    <string name="scan_switch">Scan switch</string>
+    <string name="space">SPACE</string>
+    <string name="surfix">Surfix:</string>
+    <string name="tab">TAB</string>
+    <string name="user_char">Input the customized Char</string>
+    <string name="voice">Voice:</string>
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style>
+    <style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>
+    <style name="NormalFont">
+        <item name="android:textSize">26sp</item>
+    </style>
+</resources>

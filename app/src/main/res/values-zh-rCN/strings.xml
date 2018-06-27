@@ -1,0 +1,25 @@
+<resources>
+
+    <string name="app_name">Scan2DServer</string>
+	<string name="scan_switch">开关</string>
+	<string name="prefix">前缀:</string>
+	<string name="surfix">后缀:</string>
+	<string name="voice">声音:</string>
+	<string name="scan_key_setting">扫描键设置:</string>
+	<string name="power_saving">省电模式:</string>
+	<string name="f1">F1键:</string>
+	<string name="f2">F2键:</string>
+	<string name="f3">左侧按键:</string>
+	<string name="f4">右侧按键:</string>
+	
+	<string name="tab">TAB</string>
+	<string name="space">SPACE</string>
+	<string name="enter">ENTER</string>
+	<string name="none">NONE</string>
+	<string name="other">OTHERS</string>
+	<string name="user_char">输入自定义字符</string>
+	
+	<string name="ok">OK</string>
+	<string name="cancel">CANCEL</string>
+	
+</resources>
